@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header, footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    margin: 0;
+}
+
+#Storyline, #cast, #quotes {
+    padding: 20px;
+}
+
+blockquote {
+    font-style: italic;
+    margin: 10px 0;
+}
+
+footer p {
+    margin: 5px 0;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('spidey.jpeg'); /* Replace 'background-image.jpg' with the path to your image */
+    background-size: 100% 100%; /* Cover the entire body */
+    background-repeat: no-repeat; /* Prevent the background from repeating */
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    width: 100vw; /* Set width to 100% of viewport width */
+    height: 100vh; /* Set height to 100% of viewport height */
+}
+
+header, footer {
+    background-color: rgba(0, 0, 0, 0.7); /* Add some transparency to the background color */
+    color: #fff;
+    padding: 20px;
+}
+
+/* The rest of your CSS styles remain unchanged */
